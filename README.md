@@ -1,4 +1,4 @@
-### Hi, I'm LexZ 👋 <img src="https://media.giphy.com/media/QNpSxVQ8EoaLS/giphy.gif" width="50">
+### Hi, I'm Lex 👋 <img src="https://media.giphy.com/media/QNpSxVQ8EoaLS/giphy.gif" width="50">
 
 <!--
 **mrlexz/mrlexz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
